@@ -41,6 +41,12 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+if (app.Environment.IsProduction())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI();
+}
+
 app.UseCors(options =>
 {
     options.WithOrigins("http://localhost:3000", "http://localhost:5173");

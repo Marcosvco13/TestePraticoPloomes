@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5w9dqpafmfJHXzMl6ExHZfsVC1DtoCypvbYPzWHUalscu5U0OSWCqqcn6o8hm59XjvGGJORpG7+RbFq5CWyHNw==",
+  "dgSpecHash": "JE9T4exEf49Jpdci8CJzATov+BhJBtqbfCd1JOcurWuO7SevZOqgzX8lo9aoH+PUw1+qY91Cfi19ttkhkLiA2Q==",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\TestePraticoPloomes\\TestePraticoPloomes\\TestePraticoPloomes.csproj",
+  "projectFilePath": "C:\\Users\\marco\\Documents\\GitHub\\TestePraticoPloomes\\TestePraticoPloomes\\TestePraticoPloomes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marco\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\marco\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
